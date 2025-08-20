@@ -1,10 +1,10 @@
--- ======================================================
+-- ====================================================================================
 -- Project: Falcon Models - Sales & Customers Analysis
 -- File: Analysis-queries.sql [By Kashish Pal]
 -- Description: This file contains SQL queries used for 
 -- credit & payment analysis, customer segmentation, and 
 -- business insights for the Falcon Models dataset.
--- ======================================================
+-- ====================================================================================
 
 -- Overview of Queries:
 -- • Joined multiple tables (customers, orders, payments, products) for integrated analysis  
@@ -13,9 +13,9 @@
 -- • Built customer scores using sales, profit, and payment gap metrics  
 -- • Segmented customers into tiers (VIP, Premium, Regular) for business insights  
 
--- ======================================================
+-- ====================================================================================
 -- SQL Queries Start Below
--- ======================================================
+-- ====================================================================================
 
 -- 🔹 Sales Data CTE (include all customers even without orders)
 WITH sales_data AS (
