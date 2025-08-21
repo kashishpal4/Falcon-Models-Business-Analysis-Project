@@ -1,13 +1,13 @@
 # 🦅 Falcon Models Business Analysis Project
 
 ## 📌 Project Overview  
-This project focuses on **Falcon Models**, a customized adaptation of the **Classic Models dataset**, to analyze **customer behavior, credit and payment performance, and overall sales trends**.  
+This project focuses on **Falcon Models**, a customized adaptation of the Classic Models dataset, to analyze **customer behavior, credit and payment performance, and overall sales trends**.  
 By integrating **SQL** for in-depth data analysis and **Power BI** for dynamic dashboards, the project delivers **clear, actionable insights** for better business decision-making and strategy building.
 
 ---
 
 ## 📂 Dataset Used    
-[**Falcon Models Dataset (based on Classic Models)**](https://github.com/Ayushi0214/Datasets/blob/main/classic_models_dataset.zip)
+[**Falcon Models Dataset (Based on Classic Models)**](https://github.com/Ayushi0214/Datasets/blob/main/classic_models_dataset.zip)
 
 ---
 
