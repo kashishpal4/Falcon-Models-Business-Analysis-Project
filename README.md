@@ -36,15 +36,23 @@ By integrating **SQL** for in-depth data analysis and **Power BI** for dynamic d
 
 ---
 
-## 📁 Project Files  
-- 📄 **Falcon Models Project Report.pdf** → Complete project documentation.  
-- 📝 **README.md** → Project overview and key information.  
-- 💻 **analysis-queries.sql** → All SQL scripts used for EDA and credit analysis.  
-- 🖼️ **dashboard-1-overview.png** → Summary page with navigation to all dashboards.  
-- 📈 **dashboard-2-executive.png** → Executive-level KPIs and insights.  
-- 📉 **dashboard-3-sales.png** → Sales trends and product performance breakdown.  
-- 👥 **dashboard-4-customer.png** → Customer segmentation, credit risk, and performance analysis.  
+## 📁 Project Files
 
+- **`README.md`**  
+  → You're here! Summary of the project with dashboard previews, key insights, and links.
+
+- **`Falcon Models Project Report.pdf`**  
+  → Full project report including documentation, data model view, dashboards, insights and business recommendations.
+
+- **`analysis-queries.sql`**  
+  → All SQL scripts used for EDA, customer and credit analysis.
+
+- **Dashboard Screenshots**
+  - `dashboard-1-overview.png` → Overview Page: Navigation & high-level summary of all dashboards  
+  - `dashboard-2-executive.png` → Executive-level KPIs and insights.  
+  - `dashboard-3-sales.png` → Sales trends and product performance breakdown.  
+  - `dashboard-4-customer.png` → Customer segmentation, credit risk, and performance analysis.
+    
 ---
 
 ## 📊 Dashboards Preview  
