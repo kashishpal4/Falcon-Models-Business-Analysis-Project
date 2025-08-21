@@ -57,12 +57,11 @@ By integrating **SQL** for in-depth data analysis and **Power BI** for dynamic d
 
 ## 📊 Dashboards Preview
 
-These dashboards are highly interactive, featuring:
-
-- **Drill-downs** for sales trends.
-- **Dynamic tooltips** that highlight context-specific insights.
-- **Filters and slicers** for customized data exploration.
-- **Page navigation buttons** for seamless movement between dashboard pages.
+The Power BI dashboards are **fully interactive**, featuring:  
+- **Drill-downs** to explore deeper layers of data.  
+- **Filters and slicers** for customized data exploration.  
+- **Dynamic tooltips** that highlight context-specific insights on hover.  
+- **Page navigation buttons** for a seamless user experience.
 
 **Overview Page**  
 ![Dashboard Overview](dashboard-1-overview.png)
