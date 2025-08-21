@@ -72,10 +72,10 @@ By integrating **SQL** for in-depth data analysis and **Power BI** for dynamic d
 ---
 
 ## 💡 Core Insights & Business Recommendations  
-- **Payment Performance:** Most customers pay promptly, but a small group shows high payment gaps, indicating potential credit risks.  
+- **Payment Performance:** Most customers are reliable, but a small group shows high payment gaps, indicating potential credit risks.  
 - **Customer Segmentation:** High-value, reliable customers can be targeted for loyalty programs, while high-risk customers need stricter credit policies.  
 - **Profitability Drivers:** Product lines like Classic Cars and Vintage Cars generate the highest profit margins.  
-- **Sales Trends:** Consistent year-over-year growth, with notable seasonal spikes that can guide marketing strategies.  
+- **Sales Trends:** Consistent year-over-year growth, with notable seasonal spikes in **November** that can guide marketing strategies.  
 
 ---
 
