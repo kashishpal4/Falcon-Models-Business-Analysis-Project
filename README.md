@@ -43,7 +43,7 @@ By integrating **SQL** for in-depth data analysis and **Power BI** for dynamic d
 - 🖼️ **dashboard-1-overview.png** → Summary page with navigation to all dashboards.  
 - 📈 **dashboard-2-executive.png** → Executive-level KPIs and insights.  
 - 📉 **dashboard-3-sales.png** → Sales trends and product performance breakdown.  
-- 👥 **dashboard-4-customers.png** → Customer segmentation, credit risk, and performance analysis.  
+- 👥 **dashboard-4-customer.png** → Customer segmentation, credit risk, and performance analysis.  
 
 ---
 
@@ -59,7 +59,7 @@ By integrating **SQL** for in-depth data analysis and **Power BI** for dynamic d
 ![Sales Dashboard](dashboard-3-sales.png)
 
 **Customers Dashboard**  
-![Customers Dashboard](dashboard-4-customers.png)
+![Customers Dashboard](dashboard-4-customer.png)
 
 ---
 
