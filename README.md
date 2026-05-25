@@ -1,4 +1,4 @@
-# Falcon Models — Sales & Credit Risk Analysis
+# Falcon Models-Sales & Credit Risk Analysis
 
 End-to-end business analysis of a global scale model retailer 
 using SQL and Power BI. Analysed three years of transactional 
@@ -25,25 +25,24 @@ building across customers, employees, and markets.
 
 ## SQL Approach
 
-Built a 5-CTE analytical pipeline joining 7 tables to engineer
+Built a 5-CTE analytical pipeline joining 9 tables to engineer
 a customer credit scoring and segmentation model from scratch.
 
-**CTE 1 — Sales Data:** Joins customers, orders, order details,
+**CTE 1-Sales Data:** Joins customers, orders, order details,
 and products. Uses LEFT JOIN to include zero-order customers
 in the analysis, not just active buyers.
 
-**CTE 2 — Payment Data:** Aggregates total payments per
+**CTE 2-Payment Data:** Aggregates total payments per
 customer with COALESCE handling for nulls.
 
-**CTE 3 — Base Data:** Engineers three derived columns —
-payment gap (sales minus payments), payment performance
+**CTE 3-Base Data:** Engineers three derived columns-payment gap (sales minus payments), payment performance
 ratio, and credit limit risk classification per customer.
 
-**CTE 4 — Scoring Data:** Assigns a 1–3 score to each
+**CTE 4-Scoring Data:** Assigns a 1–3 score to each
 customer across three dimensions: sales volume, profit
 contribution, and payment reliability.
 
-**CTE 5 — Final Segmented:** Sums the three scores into a
+**CTE 5-Final Segmented:** Sums the three scores into a
 composite customer score and assigns VIP, Premium, or
 Regular tier based on defined thresholds.
 
@@ -71,19 +70,19 @@ of each dashboard section*
 
 ![Overview](dashboard-screenshots/overview.png)
 
-### Page 1 — Executive Summary
+### Page 1-Executive Summary
 *Overall business health: growth trajectory, profit by product
 line, employee revenue contribution, and geographic distribution*
 
 ![Executive Summary](dashboard-screenshots/executive-summary.png)
 
-### Page 2 — Sales & Product Insights
+### Page 2-Sales & Product Insights
 *Product and market performance: top and bottom sellers,
 profit margin by product line, and country revenue ranking*
 
 ![Sales and Products](dashboard-screenshots/sales-products-insights.png)
 
-### Page 3 — Customer Credit Analysis
+### Page 3-Customer Credit Analysis
 *Credit risk mapping: payment performance segmentation,
 revenue vs payment gap scatter plot, VIP account health,
 and employee-level collection tracking*
@@ -96,8 +95,7 @@ and employee-level collection tracking*
 
 - Revenue grew **36.3% from $3.3M (2003) to $4.5M (2004)**
   with 2005 tracking ahead of pace through May
-- **$750K in outstanding payments** across active customers —
-  $565K from 13 customers paying less than 75% of what they owe
+- **$750K in outstanding payments** across active customers & $565K from 13 customers paying less than 75% of what they owe
 - The **highest-revenue customer** (Euro+ Shopping Channel,
   $820K) is the only VIP with unresolved outstanding balance
   of $104,951
@@ -106,9 +104,8 @@ and employee-level collection tracking*
 - **Spain ranks 2nd globally** at $1.06M with no local office,
   outperforming UK and Japan which both have dedicated offices
 - **Motorcycles** deliver the highest profit margin (40.7%)
-  but represent only 11.7% of sales — the most underutilised
-  line in the portfolio
-- **November averages $983K** — Q4 alone contributes 38.4%
+  but represent only 11.7% of sales.
+- **November averages $983K**-Q4 alone contributes 38.4%
   of annual revenue creating heavy seasonal dependence
 
 ---
