@@ -53,8 +53,8 @@ Full query → [analysis-queries.sql](analysis-queries.sql)
 
 ## Data Model
 
-Star schema across 7 tables: customers, orders, order details,
-products, product lines, employees, and offices.
+Star schema across 9 tables: customers, orders, order details,
+products, product lines, employees, payments, customer credits and offices.
 
 ![Data Model](data-model.png)
 
@@ -63,7 +63,7 @@ products, product lines, employees, and offices.
 ## Dashboard Preview
 
 Three-page interactive Power BI report with drill-downs,
-cross-filters, custom tooltips, and page navigation.
+cross-filters, and page navigation.
 
 ### Overview
 *Navigation page summarising the purpose and structure
