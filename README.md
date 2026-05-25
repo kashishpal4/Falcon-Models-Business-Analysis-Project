@@ -65,6 +65,12 @@ products, product lines, employees, and offices.
 Three-page interactive Power BI report with drill-downs,
 cross-filters, custom tooltips, and page navigation.
 
+### Overview
+*Navigation page summarising the purpose and structure
+of each dashboard section*
+
+![Overview](dashboard-screenshots/overview.png)
+
 ### Page 1 — Executive Summary
 *Overall business health: growth trajectory, profit by product
 line, employee revenue contribution, and geographic distribution*
@@ -75,14 +81,14 @@ line, employee revenue contribution, and geographic distribution*
 *Product and market performance: top and bottom sellers,
 profit margin by product line, and country revenue ranking*
 
-![Sales and Products](dashboard-screenshots/sales-products.png)
+![Sales and Products](dashboard-screenshots/sales-products-insights.png)
 
 ### Page 3 — Customer Credit Analysis
 *Credit risk mapping: payment performance segmentation,
 revenue vs payment gap scatter plot, VIP account health,
 and employee-level collection tracking*
 
-![Customer Credit Analysis](dashboard-screenshots/customer-credit.png)
+![Customer Credit Analysis](dashboard-screenshots/customer-credit-analysis.png)
 
 ---
 
@@ -121,81 +127,5 @@ DAX measures, insights report, and strategic recommendations.
 **Kashish Pal**
 [Portfolio](https://kashishpal.framer.website) ·
 [LinkedIn](https://linkedin.com/in/kashishpal04) ·
-[GitHub](https://github.com/kashishpal4) ## 🎯 Project Objectives  
-- Analyze **customer-level sales, profits, and payments**.  
-- Assess **payment gaps, performance ratios, and credit limits** to identify reliable and risky customers.  
-- Create **customer segmentation and scoring** for better credit and sales strategies.  
-- Build **interactive dashboards** to visualize KPIs and trends for decision-making.  
-- Provide **insights and actionable recommendations** for business improvements.  
-
----
-
-## 🛠️ Tools & Skills Used  
-- 🗄️ **SQL** → Exploratory Data Analysis (EDA) for credit and payment patterns.  
-- 📊 **Power BI** → Data cleaning, transformation (Power Query), and dashboard creation.  
-- 📐 **Data Modeling & DAX** → For calculated measures, KPIs, and interactive reporting.  
-- 🎨 **Canva** → Designing visual elements for enhanced presentations and storytelling.
-
----
-
-## 🔍 Key Analysis Areas  
-- Customer payment behavior and credit performance.  
-- Profitability and payment gap metrics.  
-- Credit risk identification and customer reliability segmentation.  
-- Overall sales trends and performance breakdown.  
-
----
-
-## 📁 Project Files
-
-- **`README.md`**  
-  → You're here! Summary of the project with dashboard previews, key insights, and links.
-
-- **`Falcon Models Project Report.pdf`**  
-  → Full project report including documentation, data model view, dashboards, insights and business recommendations.
-
-- **`analysis-queries.sql`**  
-  → All SQL scripts used for EDA, customer and credit analysis.
-
-- **Dashboard Screenshots**
-  - `dashboard-1-overview.png` → Overview Page: Navigation & high-level summary of all dashboards  
-  - `dashboard-2-executive.png` → Executive-level KPIs and insights.  
-  - `dashboard-3-sales.png` → Sales trends and product performance breakdown.  
-  - `dashboard-4-customer.png` → Customer segmentation, credit risk, and performance analysis.
-    
----
-
-## 📊 Dashboards Preview
-
-The Power BI dashboards are **fully interactive**, featuring:  
-- **Drill-downs** to explore deeper layers of data.  
-- **Filters and slicers** for customized data exploration.  
-- **Dynamic tooltips** that highlight context-specific insights on hover.  
-- **Page navigation buttons** for a seamless user experience.
-
-**Overview Page**  
-![Dashboard Overview](dashboard-1-overview.png)
-
-**Executive Dashboard**  
-![Executive Dashboard](dashboard-2-executive.png)
-
-**Sales Dashboard**  
-![Sales Dashboard](dashboard-3-sales.png)
-
-**Customers Dashboard**  
-![Customers Dashboard](dashboard-4-customer.png)
-
----
-
-## 💡 Core Insights & Business Recommendations  
-- **Payment Performance:** Most customers are reliable, but a small group shows high payment gaps, indicating potential credit risks.  
-- **Customer Segmentation:** High-value, reliable customers can be targeted for loyalty programs, while high-risk customers need stricter credit policies.  
-- **Profitability Drivers:** Product lines like **Classic Cars** and **Vintage Cars** generate the highest profit margins.  
-- **Sales Trends:** Consistent **year-over-year growth**, with notable seasonal spikes in **November** that can guide marketing strategies.  
-
----
-
-## 📬 Contact  
-**Kashish Pal**  
-🌐 [**Portfolio**](https://kashishpal.framer.website) | 💼 [**LinkedIn**](http://www.linkedin.com/in/kashishpal04) | 💻 [**GitHub**](https://github.com/kashishpal4)
+[GitHub](https://github.com/kashishpal4) 
 
